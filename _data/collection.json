@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Fun with Classic TV Commercials " ] },
+    "summary": { "en": [ "Includes commentary on various commercials from the 1940s-1960s" ] },
+    "items": [
+    ]
+}
