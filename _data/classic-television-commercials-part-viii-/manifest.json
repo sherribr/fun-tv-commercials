@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sherribr.github.io/fun-tv-commercials/classic-television-commercials-part-viii-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Classic Television Commercials (Part VIII)" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/ClassicT1948_8",
+        "type": "Text",
+        "label": { "en": [ "Classic Television Commercials (Part VIII)" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive " ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sherribr.github.io/fun-tv-commercials/classic-television-commercials-part-viii-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 659.0,
+        "items": [
+          {
+            "id": "https://sherribr.github.io/fun-tv-commercials/classic-television-commercials-part-viii-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sherribr.github.io/fun-tv-commercials/classic-television-commercials-part-viii-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia800508.us.archive.org/4/items/ClassicT1948_8/ClassicT1948_8.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 659.0
+                },
+                "target": "https://sherribr.github.io/fun-tv-commercials/classic-television-commercials-part-viii-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
